@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Farhan Majid
 #### I am junior Web Developer
-![I am junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am junior Web Developer](https://lh5.googleusercontent.com/JCEvM3vmaHKJ4B1wGubdsP7RSR_K5TbixA3zeOzoUqpqve2XkMmv1ygLrVBHQUwqjBLbPQDg0o9eQ9AxpKIh83A=w1280)
 
 Hi, I'm a junior web developer (Front-end). I have a little experience on HTML, CSS and Java script. I want to be a professional web developer in future.
 
